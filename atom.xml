@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
-  
+  <title><![CDATA[顾羡鱼的博客]]></title>
+  <subtitle><![CDATA[生命的每一秒，都在滑向死亡的深渊。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-01-07T05:45:26.331Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://guxianyu.github.io/"/>
+  <updated>2015-01-07T05:51:43.621Z</updated>
+  <id>http://guxianyu.github.io/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[顾羡鱼]]></name>
     
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[test1]]></title>
+    <link href="http://guxianyu.github.io/2015/01/07/test1/"/>
+    <id>http://guxianyu.github.io/2015/01/07/test1/</id>
+    <published>2015-01-07T05:51:20.000Z</published>
+    <updated>2015-01-07T05:51:20.000Z</updated>
+    <content type="html"><![CDATA[<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<hr>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[2015-1-7]]></title>
-    <link href="http://yoursite.com/2015/01/07/2015-1-7/"/>
-    <id>http://yoursite.com/2015/01/07/2015-1-7/</id>
+    <link href="http://guxianyu.github.io/2015/01/07/2015-1-7/"/>
+    <id>http://guxianyu.github.io/2015/01/07/2015-1-7/</id>
     <published>2015-01-07T05:29:42.000Z</published>
     <updated>2015-01-07T05:39:34.000Z</updated>
     <content type="html"><![CDATA[<hr>
@@ -31,8 +46,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2015/01/06/hello-world/"/>
-    <id>http://yoursite.com/2015/01/06/hello-world/</id>
+    <link href="http://guxianyu.github.io/2015/01/06/hello-world/"/>
+    <id>http://guxianyu.github.io/2015/01/06/hello-world/</id>
     <published>2015-01-06T09:53:08.000Z</published>
     <updated>2015-01-07T03:37:20.000Z</updated>
     <content type="html"><![CDATA[<hr>
@@ -68,8 +83,8 @@
   
   <entry>
     <title><![CDATA[text]]></title>
-    <link href="http://yoursite.com/2015/01/06/text/"/>
-    <id>http://yoursite.com/2015/01/06/text/</id>
+    <link href="http://guxianyu.github.io/2015/01/06/text/"/>
+    <id>http://guxianyu.github.io/2015/01/06/text/</id>
     <published>2015-01-06T08:18:44.000Z</published>
     <updated>2015-01-07T05:39:39.000Z</updated>
     <content type="html"><![CDATA[<hr>
